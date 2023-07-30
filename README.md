@@ -1,6 +1,7 @@
 # Covid-Tracker
 
-![Graphical feature]![Logo](https://ibb.co/kyDWBcj)
+![Graphical feature]![[Logo] ![LOGO](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/5c53fa7e-b2f0-47f6-8764-6fc1caf2833d)
+
 
 This study on the experienced of visually impaired people involved in the implementation of assistive technology through mobile phones. The algorithms was tested to existing datasets, enhanced and added trained datasets, discussed the results and their relevance, the analysis of the results, and highlight the implications of this study.
 
