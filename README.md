@@ -16,27 +16,25 @@ The study's main objectives were to create and evaluate COVID tracker algorithms
 *   USB cable (to connect Android device to your computer)
 
 ## Features
-### 1. Detection of common objects
+### 1. The Gui of Covid-Tracker
 ![Detect Object](https://user-images.githubusercontent.com/106217907/171542959-200f9c7d-6941-4d15-9d19-e4613f8259a0.jpg)
-### 2. Text Reader
+### 2. Filter
 ![Text Reader](https://user-images.githubusercontent.com/106217907/171542966-735cdd56-39e6-42bc-bf9c-eb1701f35441.jpg)
-### 3. Money Reader
+### 3. Choose Region
 ![Money Reader](https://user-images.githubusercontent.com/106217907/171542973-1c02d216-a76a-4362-aced-c837666b4d67.jpg)
-### 4. Face Recognition
+### 4. Total Cases in Region
 ![Face Recognition](https://user-images.githubusercontent.com/106217907/171542988-329de313-97e3-480f-be11-cfbd336bca92.jpg)
-### 5. Face Analyzer (Gender & Age Estimation)
+### 5. Settings
 ![Face Analyzer](https://user-images.githubusercontent.com/106217907/171543450-73faa700-73f4-4db9-9ef5-ca4cc47a1f47.jpg)
-### 6. GPS Tracker
-![GPS tracker](https://user-images.githubusercontent.com/106217907/171542995-2953cc09-0a24-454b-a146-49e44c1c27d0.jpg)
 
 ## Demo Video
 Click the link to watch https://youtu.be/isGAerr6FmI
 
 ## Researcher/Developer:
-* Art Kenneth Vida
-* Jhun Fermin III, B. Villamor
-* Karizza B. Hipolito
-* Mary Ann F. Rivera
+* Fritz Anthony Joguilon
+* Franzh Yron Valenzuela
+* Jesamm Cervantes Ty
+* John Royce Garcia
 
 ## Adviser: 
 * Jefferson A. Costales
@@ -51,7 +49,7 @@ College of Arts and Sciences
 ITE Department
 
 ## Course: 
-* Bachelor of Science in Computer Science
+* Bachelor of Science in Information Technology
 
 ## Date: 
-* January 17, 2022
+* July 31, 2023
