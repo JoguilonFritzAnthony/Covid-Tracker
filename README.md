@@ -1,8 +1,5 @@
 # Covid-Tracker
-
 ![LOGO](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/9a66d742-a5b8-4120-962f-d87cc53c5faf)
-
-
 
 Algorithms created and tested for the COVID tracker project were specifically made for tracking and keeping track of COVID-19 cases. Real-time information on infection rates was one of the COVID-19-related datasets that the researchers used. These datasets were improved, and the algorithms were trained to examine and interpret the data correctly. The paper covered the algorithm testing results, emphasizing their value for monitoring COVID-19's propagation, locating hotspots, and forecasting future trends. The study of the data revealed important information about the COVID tracker's efficiency and its possible effects on the pandemic's public health management.
 
@@ -26,7 +23,7 @@ The study's main objectives were to create and evaluate COVID tracker algorithms
 ![4](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/5a02c32e-0c25-444e-96d6-1d49994079ab)
 
 ## Demo Video
-Click the link to watch https://youtu.be/isGAerr6FmI
+Click the link to watch [https://youtu.be/isGAerr6FmI](https://youtu.be/-MRxqYrs400)
 
 ## Researcher/Developer:
 * Fritz Anthony Joguilon
