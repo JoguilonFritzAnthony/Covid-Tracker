@@ -1,13 +1,11 @@
 # Covid-Tracker
 
-!![LOGO](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/2d4642a0-e7e8-4c93-9308-cee85761382e)
+[LOGO](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/2d4642a0-e7e8-4c93-9308-cee85761382e)
 
-
-
-This study on the experienced of visually impaired people involved in the implementation of assistive technology through mobile phones. The algorithms was tested to existing datasets, enhanced and added trained datasets, discussed the results and their relevance, the analysis of the results, and highlight the implications of this study.
+Algorithms created and tested for the COVID tracker project were specifically made for tracking and keeping track of COVID-19 cases. Real-time information on infection rates was one of the COVID-19-related datasets that the researchers used. These datasets were improved, and the algorithms were trained to examine and interpret the data correctly. The paper covered the algorithm testing results, emphasizing their value for monitoring COVID-19's propagation, locating hotspots, and forecasting future trends. The study of the data revealed important information about the COVID tracker's efficiency and its possible effects on the pandemic's public health management.
 
 ## Overview
-This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on Android. It uses image classification to continuously classify objects it sees from the device's back camera. Inference is performed using the TensorFlow Lite Java API. The app classifies frames in real-time, displaying the top most probable classifications.
+The study's main objectives were to create and evaluate COVID tracker algorithms. It improved the COVID-19 datasets it used and trained the algorithms on them. The usefulness of the findings in tracking the virus, locating hotspots, and forecasting trends was highlighted throughout the discussion of the findings. The study offered helpful insights for managing public health throughout the pandemic.
 ![Menu](https://user-images.githubusercontent.com/106217907/171542945-4c369296-98ef-4682-86ba-a80f3c5d84f6.jpg)
 
 ## Requirements
