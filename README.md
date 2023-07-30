@@ -8,7 +8,7 @@ Algorithms created and tested for the COVID tracker project were specifically ma
 
 ## Overview
 The study's main objectives were to create and evaluate COVID tracker algorithms. It improved the COVID-19 datasets it used and trained the algorithms on them. The usefulness of the findings in tracking the virus, locating hotspots, and forecasting trends was highlighted throughout the discussion of the findings. The study offered helpful insights for managing public health throughout the pandemic.
-![Menu](https://user-images.githubusercontent.com/106217907/171542945-4c369296-98ef-4682-86ba-a80f3c5d84f6.jpg)
+![5](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/a6a1b582-5b83-48f9-a22d-0a9b629fe0f1)
 
 ## Requirements
 *   Android Studio 4.0 (installed on a Mac, Linux, or Windows machine)
@@ -17,15 +17,13 @@ The study's main objectives were to create and evaluate COVID tracker algorithms
 
 ## Features
 ### 1. The Gui of Covid-Tracker
-![Detect Object](https://user-images.githubusercontent.com/106217907/171542959-200f9c7d-6941-4d15-9d19-e4613f8259a0.jpg)
+![1](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/561a32e6-372e-47cb-8485-c85b5b488603)
 ### 2. Filter
-![Text Reader](https://user-images.githubusercontent.com/106217907/171542966-735cdd56-39e6-42bc-bf9c-eb1701f35441.jpg)
+![2](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/585d6b57-f0d2-4aba-b36d-08aa1ec3bf43)
 ### 3. Choose Region
-![Money Reader](https://user-images.githubusercontent.com/106217907/171542973-1c02d216-a76a-4362-aced-c837666b4d67.jpg)
-### 4. Total Cases in Region
-![Face Recognition](https://user-images.githubusercontent.com/106217907/171542988-329de313-97e3-480f-be11-cfbd336bca92.jpg)
-### 5. Settings
-![Face Analyzer](https://user-images.githubusercontent.com/106217907/171543450-73faa700-73f4-4db9-9ef5-ca4cc47a1f47.jpg)
+![3](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/b024e32e-f1e5-459c-99ce-9c84ba87ec02)
+### 4. Settings
+![4](https://github.com/JoguilonFritzAnthony/Covid-Tracker/assets/140958406/5a02c32e-0c25-444e-96d6-1d49994079ab)
 
 ## Demo Video
 Click the link to watch https://youtu.be/isGAerr6FmI
